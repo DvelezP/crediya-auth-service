@@ -1,0 +1,8 @@
+dependencies {
+    // Solo Lombok - el modelo debe ser independiente de frameworks
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
+
+    // Testing básico
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
