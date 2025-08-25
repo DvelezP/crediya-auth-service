@@ -3,7 +3,7 @@ server:
   port: 8080
 spring:
   application:
-    name: crediya-auth-service --lombok&#61;true
+    name: crediya-auth-serviceï¿½--lombok&#61;true
   devtools:
     add-properties: false
   h2:
